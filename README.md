@@ -1,7 +1,7 @@
-Course 1 - Browser-based Models with TensorFlow.js – Examples and Exercises
+Browser-based Models with TensorFlow.js – Examples and Exercises
 ===========================================================================
 
-This repository contains the examples and exercises that accompany Course 1 - Browser-based Models with TensorFlow.js of the TensorFlow for Data and Deployment Specialization at Coursera. 
+This repository contains the examples of Browser-based Models with TensorFlow.js of the TensorFlow for Data and Deployment Specialization at Coursera. 
 
 # Setting Up
 
