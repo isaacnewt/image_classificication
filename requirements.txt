@@ -1,0 +1,3 @@
+# How to install tensorflow
+
+pip3 install --upgrade tensorflow
